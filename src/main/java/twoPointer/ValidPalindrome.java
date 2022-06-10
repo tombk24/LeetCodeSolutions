@@ -1,4 +1,4 @@
-import java.util.Locale;
+package twoPointer;
 
 public class ValidPalindrome {
     public boolean isPalindromeOld(String str) {
